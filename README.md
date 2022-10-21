@@ -55,6 +55,6 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ---
 
 ### :writing_hand: Blog Posts :
-https://www.notion.so/merine/Document-getElementById-cc4cf15508224383ad86d038048112fb
+
 
 
