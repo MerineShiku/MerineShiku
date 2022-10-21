@@ -11,11 +11,13 @@
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
+ 
   <h1>
     Thank you for stopping by 👋
   </h1>
-  
 </div>
+
+ 
 
 <div align="center">
   <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" width="400"/>
