@@ -26,6 +26,7 @@
 ### :woman_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Germany.
 - :telescope: I’m working as a front End developer.
+- :toolbox:  My skillset is Javascript, React framework, HTML and CSS
 
 - :seedling: Studying at @Scrimba on the Front End Development Path.
 
