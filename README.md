@@ -31,7 +31,7 @@ I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my freetime I like to travel and enjoy quiet time with my family
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/merinemutitu/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/merinemutitu/)
 
 ---
 
