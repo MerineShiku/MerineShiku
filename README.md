@@ -26,7 +26,7 @@
 ---
 
 ### :woman_technologist: About Me :
-Hey There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Germany.
+Hey There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - :telescope: I’m working as a Technical Support Specialist.
 - :toolbox:  My skillset is Javascript, React framework, HTML and CSS
 
